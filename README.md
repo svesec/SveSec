@@ -34,8 +34,8 @@ Throughout my career, I've led teams, implemented software solutions, coordinate
 
 ## 🌐 Let's Connect!
 
-- 📎 [LinkedIn](https://www.linkedin.com/in/svetoslav-penev-9a397b368/)  
+- 📎 [LinkedIn](https://www.linkedin.com/in/svesec)  
 - 💼 Personal website *(coming soon)*
-- 🧠 GitHub: [github.com/SveSec](https://github.com/SveSec)
+- 🧠 GitHub: [github.com/svesec](https://github.com/svesec) 
 
 
